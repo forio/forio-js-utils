@@ -1,6 +1,6 @@
 {
-  "name": "forio-utils",
-  "version": "0.0.1",
+  "name": "forio-js-utils",
+  "version": "0.1.0",
   "dependencies": {
     "lodash": "~2.4.1"
   }
